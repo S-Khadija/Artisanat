@@ -31,6 +31,7 @@
         <div class="container">
             <h2>Welcome to Nqad Lik</h2>           
            <p>Your one-stop solution for all your needs.</p>
+           <h1>xyz</h1>
         </div>            
 
     </main>
